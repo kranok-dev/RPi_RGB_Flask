@@ -2,7 +2,7 @@
 Flask Application with Raspberry Pi and RGB LED                                                      
 
 **Description**                                                               
-> TThis application consists on running a Web page using Flask with Python to control an RGB LED. Instead of using the PWM GPIO pins, I used threads to simulate the modulation of pulses for each color channel. Additionally, there is a code to open a USB camera and monitor the RGB LED.
+> This application consists on running a Web page using Flask with Python to control an RGB LED. Instead of using the PWM GPIO pins, I used threads to simulate the modulation of pulses for each color channel. Additionally, there is a code to open a USB camera and monitor the RGB LED.
 
 **Installation**
 > The implemented code requires Flask and OpenCV to be installed in Python:
