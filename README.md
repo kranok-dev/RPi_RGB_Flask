@@ -28,3 +28,6 @@ $ python3 Camera.py
 localhost:5000
 ```
 > move the slider bars, and enjoy the show!
+
+**Demo Video**
+> https://www.youtube.com/watch?v=QwUokBQ-1og
