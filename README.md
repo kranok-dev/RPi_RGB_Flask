@@ -1,4 +1,4 @@
-# RPi RGB Flask
+# Raspberry Pi RGB LED with Flask
 Flask Application with Raspberry Pi and RGB LED                                                      
 
 **Description**                                                               
