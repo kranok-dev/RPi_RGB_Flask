@@ -6,7 +6,7 @@ Flask Application with Raspberry Pi and RGB LED
 **Hardware**
 * Raspberry Pi (3B+ was used, any other version should work)
 * RGB LED
-* 3 330 Ω resistors
+* 3 resistors of 330 Ω 
 * 1 Breadboard and 4 jumper wires
 
 **Description**                                                               
