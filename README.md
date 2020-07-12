@@ -1,5 +1,13 @@
 # Raspberry Pi RGB LED with Flask
-Flask Application with Raspberry Pi and RGB LED                                                      
+Flask Application with Raspberry Pi and RGB LED
+
+![Circuit](https://github.com/kranok-dev/RPi_RGB_Flask/blob/master/Circuit.png?raw=true)
+
+**Hardware**
+> Raspberry Pi (3B+ was used, any other version should work)
+> RGB LED
+> Three 330Ω resistors
+> 1 Breadboard and 4 jumper wires
 
 **Description**                                                               
 > This application consists on running a Web page using Flask with Python to control an RGB LED. Instead of using the PWM GPIO pins, I used threads to simulate the modulation of pulses for each color channel. Additionally, there is a code to open a USB camera and monitor the RGB LED.
