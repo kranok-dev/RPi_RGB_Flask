@@ -3,8 +3,6 @@ Flask Application with Raspberry Pi and RGB LED
 
 ![Circuit](https://github.com/kranok-dev/RPi_RGB_Flask/blob/master/Circuit.png?raw=true)
 
-![Demo](https://github.com/kranok-dev/RPi_RGB_Flask/blob/master/Demo.png?raw=true)
-
 **Hardware**
 * Raspberry Pi (3B+ was used, any other version should work)
 * RGB LED
@@ -23,7 +21,7 @@ Flask Application with Raspberry Pi and RGB LED
   
   $ sudo pip3 install opencv-contrib-python==4.1.0.25
   ```
-
+  
 **Execution**
 > For execution, it only requires to clone de repository and running the application:
 ```
@@ -38,6 +36,8 @@ $ python3 Camera.py
 localhost:5000
 ```
 > move the slider bars, and enjoy the show!
+
+![Demo](https://github.com/kranok-dev/RPi_RGB_Flask/blob/master/Demo.png?raw=true)
 
 **Demo Video**
 > https://www.youtube.com/watch?v=QwUokBQ-1og
