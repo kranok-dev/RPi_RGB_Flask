@@ -3,6 +3,8 @@ Flask Application with Raspberry Pi and RGB LED
 
 ![Circuit](https://github.com/kranok-dev/RPi_RGB_Flask/blob/master/Circuit.png?raw=true)
 
+![Demo](https://github.com/kranok-dev/RPi_RGB_Flask/blob/master/Demo.png?raw=true)
+
 **Hardware**
 * Raspberry Pi (3B+ was used, any other version should work)
 * RGB LED
