@@ -31,7 +31,7 @@ $ sudo python3 app.py
 ```
 $ python3 Camera.py
 ```
-> To vary the color intensities, open the chromium browser and go to 
+> To vary the color intensities, open the chromium browser and go to: 
 ```
 localhost:5000
 ```
